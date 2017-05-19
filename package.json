@@ -46,5 +46,8 @@
     "undef": true,
     "white": true
   },
+  "scripts":{
+    "start":"node server.js"
+  },
   "main": "server.js"
 }
